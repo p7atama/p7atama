@@ -4,7 +4,6 @@ I am a Fullstack Developer at PT. Padma Soode Indonesia.<br>
 - 🌐 Visit my <a href="https://p7atama.notion.site/Pratama-Pangestu-5a51aaae67dd46428db32bb07f227a9f">resume website</a> for complete background and contact.<br>
 - 💻 <a href="https://p7atama.notion.site/p7atama-Portfolio-7e3aee359a444ffcaf7bbccb44c80703">Portfolio</a><br>
 - ✍️ <a href="https://medium.com/@p7atama">Medium Profile</a>
-- 
 
 ---
 <p align = "center">
